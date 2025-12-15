@@ -1,7 +1,6 @@
-class HelloWorld:
-    
+class HelloWorld:  
     def main():
-        print("Hello, World!")
+        print("Hello, Python!")
 
 
 if __name__ == "__main__":
